@@ -1,0 +1,14 @@
+/var/*
+!/var/cache
+/var/cache/*
+!var/cache/.gitkeep
+!/var/logs
+/var/logs/*
+!var/logs/.gitkeep
+/config/settings.yml
+/vendor/
+/.idea/*
+.idea/*
+/nbproject/private/
+nbproject
+.DS_Store

@@ -1,0 +1,7 @@
+database:
+  driver: pdo_mysql
+  host: localhost
+  dbname: silex
+  user: root
+  password: password
+  charset: utf8mb4
